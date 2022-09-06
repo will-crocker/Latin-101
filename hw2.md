@@ -1,3 +1,5 @@
+*+1 Needs 1 correction**
+
 Will Crocker hw2
 
 1. Hercules loved Deianira. amāuīt
@@ -6,7 +8,7 @@ Will Crocker hw2
 
 3. Juno sent serpents to kill Hercules. mīsīt
 
-4. The lion of Nemea was killed by Hercules. (Lion is masculine in Latin.) interfēcīt
+4. The lion of Nemea was killed by Hercules. (Lion is masculine in Latin.) interfēcīt ❌
 
 5. Apollo was given into slavery to Admetus, king of Thessaly. datus est
 
