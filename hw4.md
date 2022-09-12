@@ -1,7 +1,9 @@
+**+1 Needs revisions**
+
 Will Crocker hw4 
 
 What are the three genders of Latin nouns? 
-male female and nueter
+masculine feminine and neuter⚠️
 
 What are the three pieces of information in a Latin dictionary entry for a noun? 
 gender case and number 
@@ -15,6 +17,8 @@ genitive case
 What case does Latin use to name the subject of a verb?
 nominative case
 
+
+**Identify *each* noun: you've identified one noun in each phrase**
 amor Deianirae - love of deianira, love for deianira
 
 deus amoris - male singular genitive
