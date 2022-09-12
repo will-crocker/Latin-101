@@ -6,7 +6,7 @@ What are the three genders of Latin nouns?
 masculine feminine and neuter⚠️
 
 What are the three pieces of information in a Latin dictionary entry for a noun? 
-gender case and number 
+gender case and number  ❌
 
 How do you figure out what declension a noun belongs to? 
 You look at the ending of the noun in the singular: -ae, -i, -is
