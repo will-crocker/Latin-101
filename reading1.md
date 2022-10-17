@@ -11,4 +11,4 @@ Will Crocker
 9. Eam follows Laomedonta killing.❌
 
 Translation:
-Hercules killed Antaum, son of earth, in Lybia. HE killed the guests, he killed them by wrestling❌. Cygrum, son of Martis was kiled by arms.❌ Mars came with arms for the him the son, Jupiter sent lightning with them. Hesione met them at Troy❌, He killed Laomedonta, father of Hesiones but they werent returned so they were kiled.
+Hercules killed Antaum, son of earth, in Lybia. HE killed the guests, he killed them by wrestling❌. Cygrum, son of Mars was killed by arms.❌ Mars came with arms for the him the son, Jupiter seperated them with lightning. Hesione was given up to a sea monster at Troy❌, Hercules killed it; Laomedonta, father of Hesiones becasue she was not returned, he killed with arrows.
