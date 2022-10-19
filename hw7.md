@@ -1,19 +1,19 @@
 Will Crocker HW 
 
-Daedalus pennas sibi et Icaro filio fecit.
-Deadalus made wings for him.
+1. Daedalus pennas sibi et Icaro filio fecit.
+   Deadalus made wings for himself and his son Icaro.
 
-Bacchus Ariadnen amauit et sibi in coniugium abduxit.
-Bacchus loved Aridnen and he married her.
+2. Bacchus Ariadnen amauit et sibi in coniugium abduxit.
+   Bacchus loved Aridnen and he married her for himself.
 
-Pelopia gladium eripuit, et in pectus sibi detrusit.
-Pelopia took the sword and he pushed it through the chest 
+3. Pelopia gladium eripuit, et in pectus sibi detrusit.
+   Pelopia took the sword and she thrust it through her own chest 
 
-Iuno Venus Minerua formam sibi uindicauerunt.
-Iuno took the form of venus and avenged Minerua
+4. Juno Venus Minerua formam sibi uindicauerunt.
+   Juno, Venus, and Minerua claimed they were the most beautiful. 
 
-Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinciret.
-Ulysses was tossed about by the waves; Leucothea gave him a belt to win.
+5. Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et sibi pectus uinxit.
+   Ulysses was tossed about by the waves; Leucothea gave a garment to him, he wrapped it around his chest for himself. 
 
-Achelous fluuius in omnes figuras se immutabat. Achelous fluuius in omnes figuras se immutabat. hic cum Hercule propter Deianirae coniugium pugnauit,  et in taurum se conuertit.
-Achelous changed his own figure. When he fought Hercules for the marriage of Deianirae. He then turned himslef into a bull.
+6. Achelous fluuius in omnes figuras se immutabat. Achelous fluuius in omnes figuras se immutabat. hic cum Hercule propter Deianirae coniugium pugnauit,  et in taurum se conuertit.
+   Achelous changed his own figure. When he fought Hercules for the marriage of Deianirae. He then turned himslef into a bull.
