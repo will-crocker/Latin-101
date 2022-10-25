@@ -18,7 +18,7 @@ Fratres Alethaea sunt interfecti.
 
 A large number of his sisters were changed into birds, but not the beautiful Deianira.
 Numeri multi eius sororum❌, Formosa Deianira✅
-Numeri magne earum sororum, Formosa Deianira✅
+Numeri magne eius sororum, Formosa Deianira
 
 
 She was the daughter of Dexamenus, according to some stories, but the daughter of Oineus in other versions.
