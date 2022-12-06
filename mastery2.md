@@ -1,7 +1,9 @@
+**+1 Needs revisions**
+
 Will Crockermastery2.md 
 
 
-this foolish son  singular 
+this foolish son  singular ✅
 
 Nominative: hic imprudens filius
 
@@ -26,21 +28,23 @@ Accusative:	hos imprudentes filios
 
 Ablative: his imprudentibus filii
 
-1 in agrum
+**Please include the question so we can review from this**
+
+1 in agrum  ❌
 
 2 cum eius filiis
 
-3 temporo
+3 temporo ❌
 
-4 posset non ire
+4 posset non ire ❌
 
-5 volebar volo
+5 volebar volo ❌
 
-6 ipsum
+6 ipsum ❌
 
-7 multam horam 
+7 multam horam  ❌
 
-8 ab eis filiis
+8 ab eis filiis ❌
 
 9 ei et filiis
 
