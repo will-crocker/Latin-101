@@ -17,10 +17,16 @@ What case is ei in line 6 and what function does it play in the sentence? It is 
 What irregular verb does exierunt (line 7) come from? It comes from exire, which means to exit. 
 
 B. Translate the passage.
-Cum Achīvī decem annōs in Troia fuissent, Epeus mirae magnitūdinis equum ligneum fēcit. 
-In eō collēctī sunt Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. 
-et in equō scripsērunt “DANAI MINERVAE DONUM DEDERUNT”, castraque transtulērunt Tenedo. 
-Cum id Troianī vidērunt, Priamus equum in templum Minervae duxit. 
-Cum Cassandra diceret equum habere hostes, fidēs eī non data est et equum pro templō posuērunt. 
-Achīvī exiērunt portārumque custodēs occidērunt et Troiam sunt potitī.
+Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. 
+In *eō* **collēctī sunt** Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus. 
+et in *equō* **scripsērunt** “DANAI MINERVAE DONUM DEDERUNT”, castraque **transtulērunt** Tenedo. 
+Cum id *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. 
+Cum *Cassandra* diceret equum habere hostes, fidēs eī non data est et equum pro templō **posuērunt**. 
+*Achīvī* **exiērunt** portārumque custodēs **occidērunt** et Troiam sunt potitī.
 
+Translation: When the Greeks had been in Troy for ten years, Epeus made a wooden horse of massive size.
+Inside the horse there was Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus.
+And on the horse was written, "The Greeks gift for Minervae", and it was moved in to camp Tenedo.
+With the Trojans Watching, Priamus lead the hors in to the temple of Minervae.
+When Cassandra said the horse contained enemies, no one believed her and they brought it to the temple.
+The Greeks exited the horse through a door, killed the gaurds and caputured Troy.
