@@ -1,4 +1,4 @@
-**+0.  Needs revisions for additional point.**
+**+1 Satisfactory**
 
 Will Crocker hw5
 

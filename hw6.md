@@ -1,4 +1,4 @@
-**Needs revisions**
+**+2 Satisfactory**
 
 Will Crocker hw6
 
