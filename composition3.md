@@ -18,4 +18,6 @@ Sentence five should ay that the Trojans believed that the Achaeans had departed
 Sentence six should say that on that night, when the Trojans had set the horse up before the temple, Greeks got out of the horse, and took posession of Troy.
 
 Composition,
-Cum Achivi decem annōs in Troia fuissent, Epeus mirae magnitūdinis equum ligneum fēcit. Hyginus scripsi equum factum esse Epeius. Achaean se sum absconditi sunt in equum. Cassandra diceret equum habere hostes. Troianī Achivi abeo crediderunt. Cum equum in sum templum, Achivi exeo equum et potiti sunt Troy.
+Cum Troiam capere non possent, Epeus mirae magnitūdinis equum ligneum fēcit. Hyginus scripsi equum factum esse Epeius. Achaean se sum absconditi sunt in equum. Cassandra diceret equum habere hostes. Troianī Achivi abeo crediderunt. Ea nocte equum in sum templum, Achivi exeo equum et potiti sunt Troy.
+
+Cum Troiam capere non possent
